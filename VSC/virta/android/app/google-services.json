@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "424166767516",
+    "project_id": "login-regis--firebase",
+    "storage_bucket": "login-regis--firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424166767516:android:46582e19831f73f2f16659",
+        "android_client_info": {
+          "package_name": "com.example.virta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424166767516-erdvvfamrj7ulju1pv82ino9b28sqtud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrPopJIMwgSUUJPIOTUdlG6YaXdeOoRzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424166767516-erdvvfamrj7ulju1pv82ino9b28sqtud.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "424166767516-0juv9593etnrtqgmp3cqmltvkg35d93s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.virta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
